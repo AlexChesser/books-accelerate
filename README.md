@@ -13,9 +13,14 @@ By reading together we can leverage the power of positive peer pressure and comm
 ## Schedule
 
 **Start**: August 10th, 2021. 8PM to 10PM EST.
-**Live stream Location(s)**: https://www.twitch.tv/lgtm_shipit
-                             https://youtube.com/c/lgtm-shipit
-**Episode Playlist**:        https://youtube.com/c/lgtm-shipit
+**Live stream Location(s)**: 
+
+* https://www.twitch.tv/lgtm_shipit  
+* https://youtube.com/c/lgtm-shipit  
+
+**Episode Playlist**:
+
+* https://youtube.com/c/lgtm-shipit  
 
 ## Reading Schedule
 
