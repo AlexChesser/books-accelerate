@@ -19,20 +19,20 @@ By reading together we can leverage the power of positive peer pressure and comm
 
 ## Reading Schedule
 
-[Week 1: Chapter 1 & 2](discussions/week-01.md)
-[Week 2: Chapter 3 & 4](discussions/week-02.md)
-[Week 3: Chapter 5 & 6 & 7](discussions/week-03.md)
-[Week 4: Chapter 8 & 9 & 10 & 11](discussions/week-04.md)
-[Week 5: Chapter 12 + additional resources](discussions/week-05.md)
-[Week 6: Chapter 13](discussions/week-06.md)
-[Week 7: Chapter 14](discussions/week-07.md)
-[Week 8: Chapter 15 & 16](discussions/week-08.md)
-[Week 9: Chapter 17 & 18](discussions/week-09.md)
-[Week 10: Chapter 19 & 20 & 21](discussions/week-10.md)
-[Week 11: Chapter 22 & 23](discussions/week-11.md)
-[Week 12: Chapter 24 & 25 & 26](discussions/week-12.md)
-[Week 13: Chapter 27 & 28 & 29](discussions/week-13.md)
-[Week 14: Chapter 30 & 31 & 32](discussions/week-14.md)
+[Week 1: Chapter 1 & 2](discussions/week-01.md)  
+[Week 2: Chapter 3 & 4](discussions/week-02.md)  
+[Week 3: Chapter 5 & 6 & 7](discussions/week-03.md)  
+[Week 4: Chapter 8 & 9 & 10 & 11](discussions/week-04.md)  
+[Week 5: Chapter 12 + additional resources](discussions/week-05.md)  
+[Week 6: Chapter 13](discussions/week-06.md)  
+[Week 7: Chapter 14](discussions/week-07.md)  
+[Week 8: Chapter 15 & 16](discussions/week-08.md)  
+[Week 9: Chapter 17 & 18](discussions/week-09.md)  
+[Week 10: Chapter 19 & 20 & 21](discussions/week-10.md)  
+[Week 11: Chapter 22 & 23](discussions/week-11.md)  
+[Week 12: Chapter 24 & 25 & 26](discussions/week-12.md)  
+[Week 13: Chapter 27 & 28 & 29](discussions/week-13.md)  
+[Week 14: Chapter 30 & 31 & 32](discussions/week-14.md)  
 
 Thanks to [OpenEDX](https://openedx.atlassian.net/wiki/spaces/AC/pages/948896160/Clean+Architecture+Book+Club) for the schedule
 
