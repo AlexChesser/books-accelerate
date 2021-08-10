@@ -32,6 +32,20 @@ The TOC indicates that there are six broad sections to the book.
 
 - When software design is done right, it takes a fraction of the human resoruces to design and maintain
 
-### Chapter 01 - What is Design and Architecture? 
+### Chapter 01 - What is Design and Architecture?
+
+- There is no different between system design and system architecture. They refer to the same thing.
+- The goal of architecture is to minimize the hhuman resources required to build and maintain the required system.
+- **Case study**: 
+  - As staff increases the product development speed slows and plateaus
+  - As is slows and plateaus the cost (per productivity) increases exponentially (eg: [Phong Thieu tiktok](https://www.tiktok.com/@pgt__/video/6993791082811215110) )
+- When little or no thought is given to the cleanliness of the code or the structure of the design, then development speed slows to a stop because of the complexity
+- Well designed code matters
+- "We can clean it up later" <-- but you never actually do. Don't feel back, nobody ever actually does. Take the lesson though and do it cleanly the first time.
+- Making messes is always slower than staying clean from the start.
+- **"Throw it out and start over"** is also effectively BS because if you don't run aggressively "clean" you will just rebuild with a new mess
+- "Their overconidence will drive the redesign into the same mess as the original project"
+- The best option for software development is to take the qulaity seriously from the start (later chapters define quality)
+- on a long term the rules of architecture allow us to minmize effort and maximize productivity (eg: INTERFACES... )
 
 ### Chapter 02 - A Tale of Two Values
