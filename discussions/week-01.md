@@ -49,3 +49,32 @@ The TOC indicates that there are six broad sections to the book.
 - on a long term the rules of architecture allow us to minmize effort and maximize productivity (eg: INTERFACES... )
 
 ### Chapter 02 - A Tale of Two Values
+
+- Two values of software are **BEHAVIOR** and **STRUCTURE**
+- **BEHAVIOR**: does it do what the business needs it to do? 
+- **STRUCTURE**: how difficult is it to change?
+- the SOFT in "software" must be changable, otherwise it would be HARD-ware. 
+- when stakeholders change their minds about what they want, it should be easy to adapt to their requirements.
+- The reason costs grow out of proportion to the size of the requested changes is due to **STRUCTURE**
+
+| Eisenhower's Matrix |  |
+|---|---|
+| important & urgent | important & not urgent |
+| unimportant & urgent | unimportant & not urgent |
+
+- BEHAVIOR is often URGENT but not necessarily IMPORTANT
+  - discussion question: is this true?
+- ARCHITECTURE is always IMPORTANT but not always URGENT
+- Business managers are not equipped to evaluate the importance of structure
+- _**This is what a software developer is hired to do**_
+- It is the responsibility of the software development team to assert the imporance of architecture over the urgency of features
+  - dicsussion: what are some examples of this? How do we send up the warning that we need to "build it right?"
+  - discussion: is this always true? when do we prioritize a feature over long term maintainablity?
+
+#### Fight for the architecture
+
+- Structure vs. Behavior is ALWAYS a struggle
+- As a developer _YOU ARE A STAKEHOLDER_
+- It is part of your duty to ensure code remains maintainable
+- Note the Will Larson book "Staff Engineer" often refers to programmers as "the Lorax" in this case speaking for the long term structure of the code.
+- Conclusion: If architecture comes last then the system will become ever more costly to develop
