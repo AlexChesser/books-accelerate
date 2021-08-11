@@ -1,5 +1,7 @@
 # Week 01  - Introduction
 
+[![Week One Video](https://img.youtube.com/vi/GPt0tETT1rk/0.jpg)](https://www.youtube.com/watch?v=GPt0tETT1rk)
+
 ## Chapters Read
 
 Contents, Forward, Preface, Introduction, CH01, CH02 
