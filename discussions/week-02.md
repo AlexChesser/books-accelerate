@@ -1,4 +1,6 @@
-# Part II: Programming Paradigms
+# Part II: Programming Paradigms 
+
+Pages 19 to 67 (48 pages)
 
 ## Chapter 03 - Paradigm Overview
 
@@ -22,4 +24,18 @@
 
 ### Tests
 
-### Conclusion
+## Chapter 05 - Object-Oriented Programming
+
+### Encapsulation
+
+### Inheritence
+
+### Polymorphism
+
+## Chapter 06 - Functional Programming
+
+### Immutablity and Architecture
+
+### Segregation of Mutablity
+
+### Event Sourcing
