@@ -25,9 +25,9 @@ By reading together we can leverage the power of positive peer pressure and comm
 ## Reading Schedule
 
 [Week 1: Chapter 1 & 2](discussions/week-01.md)  
-[Week 2: Chapter 3 & 4](discussions/week-02.md)  
-[Week 3: Chapter 5 & 6 & 7](discussions/week-03.md)  
-[Week 4: Chapter 8 & 9 & 10 & 11](discussions/week-04.md)  
+[Week 2: Chapter 3 & 4 & 5 & 6](discussions/week-02.md)  
+[Week 3: Chapter 7 & 8](discussions/week-03.md)  
+[Week 4: Chapter 9 & 10 & 11](discussions/week-04.md)  
 [Week 5: Chapter 12 + additional resources](discussions/week-05.md)  
 [Week 6: Chapter 13](discussions/week-06.md)  
 [Week 7: Chapter 14](discussions/week-07.md)  
