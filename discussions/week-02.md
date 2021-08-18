@@ -1,5 +1,7 @@
 # Part II: Programming Paradigms 
 
+[![Week Two Video](https://img.youtube.com/vi/QkC7Z34SQTI/0.jpg)](https://www.youtube.com/watch?v=QkC7Z34SQTI)
+
 Pages 19 to 67 (48 pages)
 
 ## Chapter 03 - Paradigm Overview
