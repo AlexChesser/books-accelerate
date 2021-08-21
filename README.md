@@ -48,3 +48,7 @@ Each week, we will discuss the contents of the assigned reading as listed above 
 Depending on turnout and participation, I will have additional materials to show, which should help catalyze the concepts discussed in the chapters.
 
 You are welcome to come along and lurk, participate in Chat, follow along at your own pace by watching back the archived episodes on the "LGTM shipit" channel: https://youtube.com/c/lgtm-shipit.
+
+## Special Thanks!
+
+We got a pull request!!! https://github.com/AlexChesser/books-clean-architecture/pull/1 very special thanks to https://github.com/tinawright who just jumped on in and made this project better.
