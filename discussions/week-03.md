@@ -71,3 +71,7 @@
 - the SRP is about functions and classes, but it is critical and returns to us twice more in different forms
 - SRP has an analog at the next level up from code (component level) called "Common Closure Principle"
 - at the system design (architectural) level it is the principle that defines the concept of **Architectural Boundries** (which we learn about later, it's fine that we don't understand what this means now)
+
+## Chapter 08 - OCP - Open Closed Principle
+
+// TODO
