@@ -23,11 +23,11 @@
   - are the basis of components that make can be used in many software systems (reusable?)
 - mid-level code is defined as sitting at the "module" level. Which is to say more than a function, (potentially) less than a complete system.
 
-- SRP: the single responsiblity principle - each software module has one and only one reason to change.
-- OCP: the open-closed principle - code should be able to be changed by ADDING new code as opposed to changing existing code
-- LSP: the Liskov substitution principle (attributed to Barbara **Liskov**) - parts must adhere to a CONTRACT that allows those parts to be SUBSTITUTED for one another.
-- ISP: the interface segregation principle - avoid depending on anything that doesn't get used.
-- DIP: the dependency inversion principle - code should not depend on DETAILS.
+- **SRP**: the single responsiblity principle - each software module has one and only one reason to change.
+- **OCP**: the open-closed principle - code should be able to be changed by ADDING new code as opposed to changing existing code
+- **LSP**: the Liskov substitution principle (attributed to Barbara **Liskov**) - parts must adhere to a CONTRACT that allows those parts to be SUBSTITUTED for one another.
+- **ISP**: the interface segregation principle - avoid depending on anything that doesn't get used.
+- **DIP**: the dependency inversion principle - code should not depend on DETAILS.
 
 - In case you missed the warning above :) 
 > the chapters in CL focus on the architectural implications of SOLID and not what SOLID *is*
@@ -35,3 +35,39 @@
 **Further note**: these chapters get pretty dense from a technical perspective. It's a good choice to go slow instead of doing all 5 in one week :)
 
 ## Chapter 07 - SRP - Single Responsiblity
+
+- Any given source code file should be responsible to one and only one actor.
+- failure to do so may result in two symptoms
+  - ACCIDENTAL DUPLICATION
+  - MERGE ISSUES
+- Consider the example of an employee payroll system 
+
+### BAD example: an employee payroll system
+- There exists an Employee class with 3 functions
+  - calculatePay()
+  - reportHours()
+  - save()
+- each of these three functions is primarily consumed by a different department
+  - _calculatePay_ is used by the finance department.
+  - _reportHours_ is used by managers 
+  - _save_ is used by Human Resources
+- by putting all three functions in the same source-code-file
+  - there is a chance of multiple teams competing to get critical changes to their business logic executed.
+  - there is a chance that the business logic is used by different teams and _potentially_ one team's changes could impact another's
+    - for if `reportHours` was used by managers AND finance, and managers wanted a report on hours on-site, while finance wanted a special calculation for OVERTIME hours then the data reported could become wrong for one of the two parties if changes are made without coordination.
+
+### Solutions to "the bad way"
+- move each function into a different file and importantly, ensure each file does not depend or even require knowledge of the others
+  - **discussion**: this could result in a violation of the DRY principle (don't repeat yourself) should we consider ranking rules of code? Does SRP outrank DRY?
+  - **storytime**: I've actually really badly violated SRP in favor of DRY and it caused problems on numerous occasions. This prompt is to remind me to tell the story of a real world project that I worked on where I violated SRP in favor of DRY and the result some significant problems. The live story will be told in the youtube associated with this week's work.
+- **Solution number two**: use what is known as a _FACADE pattern_ to address the additional complexity added in soution # 1 above.
+  - refreshers: <https://www.coursera.org/lecture/design-patterns/2-1-5-facade-pattern-prQp9> (6 min), no speed option but otherwise high quality video
+  - article: <https://refactoring.guru/design-patterns/facade>
+  - wiki: <https://en.wikipedia.org/wiki/Facade_pattern>
+  - <https://www.youtube.com/watch?v=K4FkHVO5iac> (16 min) Christopher Okhravi. this one feels clearest to me.
+
+## Conclusion
+
+- the SRP is about functions and classes, but it is critical and returns to us twice more in different forms
+- SRP has an analog at the next level up from code (component level) called "Common Closure Principle"
+- at the system design (architectural) level it is the principle that defines the concept of **Architectural Boundries** (which we learn about later, it's fine that we don't understand what this means now)
