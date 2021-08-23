@@ -74,4 +74,10 @@
 
 ## Chapter 08 - OCP - Open Closed Principle
 
-// TODO
+- a software artifact should be open for extension and closed for modification
+- organize dependencies and systems in a ONE WAY fashion. 
+  - discussion: We will _hopefully_ learn how to do this later in the book, for now it is sufficent to know what we should do
+  
+![a sample open / closed system](../Untitled%20Diagram.png)
+
+![a sample open / closed system](../closed-ciagram.png)
