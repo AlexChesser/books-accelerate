@@ -77,7 +77,29 @@
 - a software artifact should be open for extension and closed for modification
 - organize dependencies and systems in a ONE WAY fashion. 
   - discussion: We will _hopefully_ learn how to do this later in the book, for now it is sufficent to know what we should do
-  
-![a sample open / closed system](../Untitled%20Diagram.png)
+
+if a system in a MODULE (A) should be protected from changes in another MODULE (B), then make sure that (B) depends on (A)
+
+in this first image we see a system where each MODULE depends in one direction only 
 
 ![a sample open / closed system](../closed-ciagram.png)
+
+Simple right?!
+
+### warning warning warning - the next image is deliberately complex and might make you cry! (I did)
+
+however when we look at the internals there is significant complexity that is locked away
+
+![a sample open / closed system](../Untitled%20Diagram.png)
+
+- notice however how changes to changes to any systems outside of interactor (the business rules) will have no impact on any other system.
+- notice also that the additional complexity and work around that nightmare image above (the interfaces mainly) are all in place in order to ensure all dependencies are pointed in the correct direction.
+- the extra work on the nightmare image above is all about serving the business' need in order to maintain long-term project velocity
+- by ensuring dependencies flow in one direction a new system (eg mobile screen view) could be added without disrupting any of the other systems.
+
+## Conclusion 
+
+- the goal of the OCP is to make the system easy to extend without incurring a high impact in terms of the cost of change
+- by partitioning the system into components 
+- by arranging the components in a dependency hierarchy
+- higher level components are protected from changes in lower level components.
