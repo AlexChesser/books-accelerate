@@ -32,3 +32,35 @@ Better: add more interfaces!!
 - Something that carries baggage that you don't need can cause you troubles that you didn't expect.
 
 ## Dependency Inversion Principle
+
+- the most flexible systems are those where source code dependencies only refer to abstractions
+- never depend on CONCRETE classes, instead always write an interface layer whan consuming something
+- good software designers and work hard to reduce the volatility of interfaces
+  - example: instead of calling a database's SAVE method directly if you call it through an interface you can later swap out your database by editing the ONE file that makes calls to the concrete classes.
+- Stable software architectures are those that avoid depending on volitile concretions
+
+### DIP Summary rules
+- Don't refer to volatile concrete classes
+- Don't derive from volatile concrete classes
+- Don't override concrete functions
+- Never mention the name of anything concrete and volatile
+
+- The key to the DIP is to ensure that all dependencies point in one direction across the boundry line
+- note that the orange dotted lines 
+
+![a picture of a non-well defined boudry system](https://user-images.githubusercontent.com/355561/131431424-ebbdb66f-6482-4329-97a5-e1910859c12c.png)
+
+![a picture of a well-defined boudry line](https://user-images.githubusercontent.com/355561/131430536-217b59f3-3db1-4cc7-9d7a-5e738ac50c4b.png)
+
+- LIVE SHOW: discuss why the second version is is better
+- Most systems will contain at least one concrete component (often called `main`)
+
+### Conclusion
+
+- DIP shows up again and again.
+- This is the most visible organizing principle
+- dependencies should cross boundry lines in one direction
+- this is referred to as "**the dependency rule**"
+
+
+
