@@ -1,5 +1,7 @@
 # Week 3 - Design Principles  S.O.L.I.D
 
+[![Week Three Video](https://img.youtube.com/vi/GPt0tETT1rk/0.jpg)](https://www.youtube.com/watch?v=GPt0tETT1rk)
+
 ### A WARNING
 
 - The chapters on SOLID principles do not dwell on explaining what SOLID principles ARE. If you have not yet learned them or want a refresher, take a moment to go through some content on them before proceeding (or cross your fingers :) that's OK too)
