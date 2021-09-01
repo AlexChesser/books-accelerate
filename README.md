@@ -30,12 +30,12 @@ By reading together we can leverage the power of positive peer pressure and comm
 [Week 4: Chapter 9 & 10 & 11](discussions/week-04.md) SOLID principles 2/2 (L.I.D)  
 [Week 5: Chapter 12 + additional resources](discussions/week-05.md) Component Principles  
 [Week 6: Chapter 13](discussions/week-06.md) Component Cohesion  
-[Week 7: Chapter 14](discussions/week-07.md)  
-[Week 8: Chapter 15 & 16](discussions/week-08.md)  
-[Week 9: Chapter 17 & 18](discussions/week-09.md)  
-[Week 10: Chapter 19 & 20 & 21](discussions/week-10.md)  
-[Week 11: Chapter 22 & 23](discussions/week-11.md)  
-[Week 12: Chapter 24 & 25 & 26](discussions/week-12.md)  
+[Week 7: Chapter 14](discussions/week-07.md) Component Coupling  
+[Week 8: Chapter 15 & 16](discussions/week-08.md) What is Architecture?, Independence  
+[Week 9: Chapter 17 & 18](discussions/week-09.md) Boundries: Drawing Lines, Boundry Anatomy  
+[Week 10: Chapter 19 & 20 & 21](discussions/week-10.md) Policy and Level, Business Rules, Screaming Architecture  
+[Week 11: Chapter 22 & 23](discussions/week-11.md) The Clean Architecture, Presenters and Humble Objects  
+[Week 12: Chapter 24 & 25 & 26](discussions/week-12.md) Partial Boudries, Layers and Boundries, The Main Component  
 [Week 13: Chapter 27 & 28 & 29](discussions/week-13.md)  
 [Week 14: Chapter 30 & 31 & 32](discussions/week-14.md)  
 
