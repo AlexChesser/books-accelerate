@@ -1,5 +1,7 @@
 # WEEk 04 - L.I.D. (Chapters 9, 10, and, 11)
 
+[![Week Three Video](https://img.youtube.com/vi/nN-O4hOE5-0/0.jpg)](https://www.youtube.com/watch?v=nN-O4hOE5-0)
+
 ## Liskov Substitution Principle
 
 - LSP is primarily about guiding the use of inheritance. 
