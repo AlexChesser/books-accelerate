@@ -49,6 +49,10 @@ Depending on turnout and participation, I will have additional materials to show
 
 You are welcome to come along and lurk, participate in Chat, follow along at your own pace by watching back the archived episodes on the "LGTM shipit" channel: https://youtube.com/c/lgtm-shipit.
 
+## Other series
+
+- "[tech interview preparation course](https://github.com/AlexChesser/tech-interview-prep-course)" if you're looking to prepare for an interview in Tech that is an OK run through the things you have to know.
+
 ## Special Thanks!
 
 We got a pull request!!! https://github.com/AlexChesser/books-clean-architecture/pull/1 very special thanks to https://github.com/tinawright who just jumped on in and made this project better.
