@@ -73,6 +73,9 @@ So in order to use them effectively you might have to split your application acr
 ### the mutually exclusive nature of these principles
 
 - the three principles are at odds with each other
+
+![replication of the "tension diagram"](https://user-images.githubusercontent.com/355561/132257143-fd9d6d91-a9f1-4911-a38f-ab8f77c24596.png)
+
 - the ART of computer architecture comes into play here, it is inevitable that you will have to violate at least one principle at any given time ... you've got to dynamically choose which rule to break
 - A good architect finds a position against the tradeoffs that meets the _current_ needs of the team
 - Those needs **will** change over time
