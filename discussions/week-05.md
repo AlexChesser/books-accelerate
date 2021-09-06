@@ -19,6 +19,15 @@
 - Programmers used to control the memeory location of their code. 
 - Programs would quite literally specify the exact memory address their function would live at (wild)
 - If a programmer wanted to work with an existing "LIBRARY" they would have to write their code such that it did not conflict with the memory locations of the library they were consuming
+
+In the following image we see a sample of what this might have been like. Every block of code started with a number for its memory start lcoation, but so did function libraries. 
+
+![memory layout example](https://user-images.githubusercontent.com/355561/132256424-24e63a73-147a-429b-b3f5-d434e30acb31.png)
+
+So in order to use them effectively you might have to split your application across multiple memory locations according to the package you wanted to use.
+
+![image](https://user-images.githubusercontent.com/355561/132256551-065ec8df-f1fb-48bd-aaff-5809e1c75dbd.png)
+
 - at some point these became dynamically relocatable and their locations were determined by the OS automatically
 - as computers got fast enough to load functions from DLLs at runtime "components" were born  
 - Dynamically linked files that are plugged together at runtime are our components 
