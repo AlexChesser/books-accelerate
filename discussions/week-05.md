@@ -1,5 +1,7 @@
 # Week 05 - Chapters 12, 13 and Additional Resources
 
+[![Week Five Video](https://img.youtube.com/vi/4WVClmGNRK0/0.jpg)](https://www.youtube.com/watch?v=4WVClmGNRK0)
+
 ## The additional resources (meh)
 
 1. http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
