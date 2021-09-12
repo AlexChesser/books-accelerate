@@ -18,3 +18,6 @@ A summary of this week's chapter is pretty simple make sure your code dependenci
 - changes in partitioned components do not need to have an immediate effect on other teams
 - to make this work you must monitor, manage and, maintain the dependency structure over time
 - there can be no "cycles" or cirrcular dependencies
+
+![image](https://user-images.githubusercontent.com/355561/133001977-34f46d2f-d6f1-4a1b-9005-7c8a55ff7f03.png)
+
