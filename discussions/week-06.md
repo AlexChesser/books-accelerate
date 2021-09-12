@@ -33,3 +33,6 @@ A summary of this week's chapter is pretty simple make sure your code dependenci
 
 ![inverting a dependency with an interface](https://user-images.githubusercontent.com/355561/133002927-c9921ea1-88a2-43d6-b971-89ca402d8442.png)
 
+- another option is to create a new component which both components depend on.
+
+![breaking the cycle with a new component](https://user-images.githubusercontent.com/355561/133003150-59faf94a-6798-4318-97e9-a968a55944dd.png)
