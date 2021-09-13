@@ -72,3 +72,32 @@ A summary of this week's chapter is pretty simple make sure your code dependenci
 
 ## The Stable Abstractions Principle
  
+> a component should be as abstract as it is stable
+
+- there is a description of a formula for measuring how abstract a class is
+- not particularly useful IMO but for the arguments that follow it is important to believe that you can measure both
+  - abstractness
+  - stability
+
+## visually mapping the quality of a system's architecture
+
+- this part is interesting BUT a lot of work so is unlikely to happen
+- the author describes a concept he calls the main sequence
+- we have established that we can measure DEPENDENCY and ABSTRACTNESS
+- THUS we can also graph those things.
+- AND we can place every class' score on a graph of D vs. A
+
+We get something that looks like this 
+
+![a sample graph blank](https://user-images.githubusercontent.com/355561/133009578-370117ff-f576-4b75-b685-22000ddd7712.png)
+
+- **Useless** a class that nothing depends on and has no concrete code (an orphaned interface)
+- a **pain** a class that many things depend on, but is also changing all the time (a database)
+- Typically we want classes to live along the main sequence with clusters in the top left and bottom right
+- classes can then be further measured in this regard for their distance from the main sequence
+- this can help us find areas of concern in our applications
+
+![a made up sample graph measuring a system](https://user-images.githubusercontent.com/355561/133009910-bc4ff233-a718-463d-8288-eb55f662673f.png)
+
+- that final statistic distance from the main sequence can then give us a line graph per component of its COMPLEXITY over time.
+
