@@ -99,5 +99,20 @@ Architecture must support:
 - this can be "false" or "accidental duplication"
 - watch out for cases where this happens
 
+### Decoupling Strategies
 
+- source code 
+- deployment
+- services
 
+- hard to know the optimal mode
+- the mode may change over time
+- to decouple too soon is to increase cost but not necessarily reap the benefit
+- to defer this decision, separate as far as possible within your codebase without moving to independant deployment
+- this allows things to "go together" as long as possible
+- while allowing "simple" separation later in the process
+
+### Conclusion 
+
+- decouple according to the things that are likely to change with time
+- wait for "the right time" to split things, but always plan for them to be split eventually.
