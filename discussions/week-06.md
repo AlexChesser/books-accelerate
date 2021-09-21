@@ -1,5 +1,7 @@
 # WEEK 06 - Component Coupling
 
+[![Week Six Video](https://img.youtube.com/vi/9FfKqlJToGU/0.jpg)](https://www.youtube.com/watch?v=9FfKqlJToGU)
+
 A summary of this week's chapter is pretty simple make sure your code dependencies have no "cycles" which is to say all dependencies should flow in one direction only.
 
 ## the Acyclic Dependencies Principle
