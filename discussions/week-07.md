@@ -1,6 +1,8 @@
 
 # Week 7 - Ch.15: What is Architecture? Ch.16: Independence
 
+[![Week Seven Video](https://img.youtube.com/vi/FwXW2u0ytEQ/0.jpg)](https://www.youtube.com/watch?v=FwXW2u0ytEQ)
+
 ## Chapter 15 What is Architecture?
 
 - asks who a software architect is and what do they do?
