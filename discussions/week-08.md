@@ -1,10 +1,5 @@
 # Week 8
 
-## Week's overview
-
-The core content of this week's chapters are a lot of repetition from previous ones. In an effort to avoid wasting time I'm going to leave out everything that isn't particularly new.
-
-If I was designing a university course aroud this content I'd either group this chapter with previous ones, skip it or, organize the content around subjects.
 
 ## Ch 17 Boundreis: Drawing Lines
 
