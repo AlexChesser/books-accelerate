@@ -40,4 +40,32 @@ If I was designing a university course aroud this content I'd either group this 
 - this is effectively the single responsibility principle
 - in order to be able to draw boundreis we need to partition our system into components
 
-## Ch 18 Boudry Anatomy
+## Ch 18 Boundry Anatomy
+
+- Crossing boudry lines is as simple as one component calling a function in another
+- The "cost" of this can be relatively inexpensive (calling into a DLL) or more expensive (calling a networked service)
+- Boundries can also exist within a monolith 
+- be compiled into a single package, they do not need to be visible to the end user
+
+- threads are not considered "boundries"
+
+### Local processes
+
+- Local Processes _are_ considered boundrieds
+- LP are defined (simply) as something like having your first EXECUTABLE running another EXECUTABLE
+- important detail is that processes exist in separate memory space. they cannot access each other's memory except through interfaces
+- communication could be through sockets or other OS level things like message queues, "mailboxes" (I don't know what mailboxes are)
+- the goal of building this way is to protect lower-level components from higher level ones.
+- (lower level is defined as more "important" or things that matter
+
+### Services
+
+- services are the "strongest" boundry level
+- services are said to be slower than other options
+- even when talking about "operating system services" versus network services
+
+### Conclusion
+
+- most systems (other than the monolith) use multiple boundry strategy
+- "local boundries" are a good choice for "chatty" systems that need high communication
+- services (local and network) are more ideally chosen for operations that are less worried about latency (or are designed with latency in mind) 
