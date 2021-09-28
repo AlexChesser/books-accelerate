@@ -17,9 +17,18 @@
   - for now, we accept that they're the business rules
 - things that "don't matter" are said to be specific technologies (for example which brand of database you use)
 
+![boudry lines drawn on a sample system](https://user-images.githubusercontent.com/355561/135179788-94d2ad78-9d31-4597-b7bd-c6d328b6326d.png)
+
+![same example boiled down to essential componenets](https://user-images.githubusercontent.com/355561/135180094-caaf9664-2ccf-4c2c-bc14-4cf8e70cd176.png)
+
 - the chapter goes on to give additional concrete examples of "boundreis" we can draw with examples 
 - the first is an argument around separating business rules from the database
 - the second is an argument aroud separating business rules from the GUI (actually called it I/O)
+
+![same with a GUI layer](https://user-images.githubusercontent.com/355561/135180210-52202e18-6df1-461c-8d5b-5d55a78026c4.png)
+
+![which brings us to the final setup](https://user-images.githubusercontent.com/355561/135180377-e0568227-16a5-4cd3-b953-b69811f5171f.png)
+- Notice how the most important systems are protected because the boundries are only crossed in one direction
 
 - this system is said to be the way that third-party-plugins are enabled withing a project
 - while changes of things like the GUI or the database are not necessarily simple, they're POSSIBLE
