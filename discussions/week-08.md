@@ -1,6 +1,6 @@
 # Week 8
 
-## Week' soverview
+## Week's overview
 
 The core content of this week's chapters are a lot of repetition from previous ones. In an effort to avoid wasting time I'm going to leave out everything that isn't particularly new.
 
