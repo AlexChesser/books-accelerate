@@ -1,5 +1,6 @@
 # Week 8
 
+[![Week Eight Video](https://img.youtube.com/vi/S8hPv8mBYyc/0.jpg)](https://www.youtube.com/watch?v=S8hPv8mBYyc)
 
 ## Ch 17 Boundaries: Drawing Lines
 
