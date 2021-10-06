@@ -1,5 +1,7 @@
 # Week 9: Chapter 19 & 20 & 21 Policy and Level, Business Rules, Screaming Architecture
 
+[![Week Nine Video](https://img.youtube.com/vi/UJZXWqwQKAI/0.jpg)](https://www.youtube.com/watch?v=UJZXWqwQKAI)
+
 
 ## Policy and Level  
 
