@@ -71,12 +71,33 @@ Chapter 20: Business Rules
 - they should also be as independent as possible
 - (and write tests!)
  
-Chapter 21: Screaming Architecture
+## Chapter 21: Screaming Architecture
 
-    A quick glance at a component should tell you what the component does, not what framework you used.
-    Don't have a big collection of apps all together, co-locate them by feature. (i.e. have a "learning" folder filled with the apps related to learning)
+notes from edx:
 
+- A quick glance at a component should tell you what the component does, not what framework you used.
+- Don't have a big collection of apps all together, co-locate them by feature. (i.e. have a "learning" folder filled with the apps related to learning)
 
-## Business Rules  
+### Theme of an architecture
 
-## Screaming Architecture  
+- architecture exists to support the use cases
+- good architecture makes the use cases obvious
+- the first concern is to be usable
+- in a good architecture it should not matter whether you deliver on web, console, desktop, api
+- prevent the framework from taking over
+
+### testable architectures
+
+- you should be able to test all use cases without a framework in place
+- you shouldn't need
+  - a web server
+  - a database
+- entities should be "plain old objects"
+- entity inputs should be pure-data, as should outputs
+  - formatting and presenation should be secondary and added after
+- testing should be able to be done in-situ without any frameworks in place
+
+### Conclusion
+
+- your architecture should tell the reader what the system does, not what framework you used
+- a reader of your code should be able to know what the use cases are and potentially not even know how the system is delivered
