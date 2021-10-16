@@ -13,5 +13,7 @@
   - independent fo the database
   - independent of any external agency - specifically business rules
   
-  
+  ### the diagram
+  ![The clean architecture](https://user-images.githubusercontent.com/355561/137592260-4e16479e-a281-4a33-a1f0-147aa9900463.png)
+
   
