@@ -1,5 +1,7 @@
 # Week 10: Chapter 22 & 23 The Clean Architecture, Presenters and Humble Objects
 
+[![Week Ten Video](https://img.youtube.com/vi/AW9lCWFaX_U/0.jpg)](https://www.youtube.com/watch?v=AW9lCWFaX_U)
+
 ## 22 The Clean Architecture
 
 - Interestingly the book takes a moment to name a few other "types" of architecture while noting their similarities
