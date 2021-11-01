@@ -35,8 +35,8 @@ By reading together we can leverage the power of positive peer pressure and comm
 [Week 9: Chapter 19 & 20 & 21](discussions/week-09.md) Policy and Level, Business Rules, Screaming Architecture  
 [Week 10: Chapter 22 & 23](discussions/week-10.md) The Clean Architecture, Presenters and Humble Objects  
 [Week 11: Chapter 24 & 25 & 26](discussions/week-11.md) Partial Boundaries, Layers and Boundries, The Main Component  
-[Week 12: Chapter 27 & 28 & 29](discussions/week-12.md) Services: Great and Small, The Test Boundary, Clean Embedded Architecture
-[Week 13: Chapter 30 & 31 & 32](discussions/week-13.md) The Database is a Detail, The Web is a Detail, The Frameworks are a Detail,  
+[Week 12: Chapter 27 & 28 & 29](discussions/week-12.md) Services: Great and Small, The Test Boundary, Clean Embedded Architecture  
+[Week 13: Chapter 30 & 31 & 32](discussions/week-13.md) The Database is a Detail, The Web is a Detail, The Frameworks are a Detail  
 [Week 14: Chapter](discussions/week-14.md) - unscheduled. Summary overview and "what's next" perhaps?  
 
 Thanks to [OpenEDX](https://openedx.atlassian.net/wiki/spaces/AC/pages/948896160/Clean+Architecture+Book+Club) for the schedule
