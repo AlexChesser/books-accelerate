@@ -1,6 +1,8 @@
-# Week 11: Chapter 24 & 25 & 26 Partial Boudries, Layers and Boundries, The Main Component
+# Week 11: Chapter 24 & 25 & 26 Partial Boudries, Layers and Boundaries, The Main Component
 
-## Chapter 24 Partial Boudries
+[![Week Eleven Video](https://img.youtube.com/vi/Xm5tL_NvO98/0.jpg)](https://www.youtube.com/watch?v=Xm5tL_NvO98)
+
+## Chapter 24 Partial Boundaries
 
 - architectural bouraries are expensive
 - they take a LOT of extra work NOW for a payoff LATER which may not ever happen as requirements change and we learn ne things about the system.
