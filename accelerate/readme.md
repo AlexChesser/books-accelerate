@@ -7,22 +7,23 @@ ISBN: 9781942788331
 
 <https://www.oreilly.com/library/view/accelerate/9781457191435/>
 
-## What We'll Cover
+## Weekly schedule
 
-Week 01: Introduction week up to Chapter 01 - Accelerate  
-Week 02: Measuring Performance  
-Week 03: Measuring and Changing Culture  
-Week 04: Technical Practices  
-Week 05: Architecture  
-Week 06: Integrating Infosec into the Delivery Lifecycle  
-Week 07: Management Practices for Software  
-Week 08: Product Development  
-Week 09: Making Work Sustainable  
-Week 10: Employee Satisfaction, Identity, and Engagement  
-Week 11: Leaders and Managers  
-Week 12: Part III: Transformation - High-Performance Leadership and Management  
-Week 13: Conclusion  
-Week 14: Appendix A: Capabilities to Drive Improvement  
+1. Introduction  
+1. Chapter 01 - Accelerate  
+1. Measuring Performance  
+1. Measuring and Changing Culture  
+1. Technical Practices  
+1. Architecture  
+1. Integrating Infosec into the Delivery Lifecycle  
+1. Management Practices for Software  
+1. Product Development  
+1. Making Work Sustainable  
+1. Employee Satisfaction, Identity, and Engagement  
+1. Leaders and Managers  
+1. Part III: Transformation - High-Performance Leadership and Management  
+1. Conclusion  
+1. Appendix A: Capabilities to Drive Improvement  
 
 ## What to expect
 
