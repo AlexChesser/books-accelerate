@@ -1,9 +1,9 @@
 # Accelerate
 
-by Jez Humble, Gene Kim, Nicole Forsgren
-Released March 2018
-Publisher(s): IT Revolution Press
-ISBN: 9781942788331
+by Jez Humble, Gene Kim, Nicole Forsgren  
+Released March 2018  
+Publisher(s): IT Revolution Press  
+ISBN: 9781942788331  
 
 <https://www.oreilly.com/library/view/accelerate/9781457191435/>
 
