@@ -10,9 +10,9 @@ Hopefully, you get something of value out of this.
 
 -  (completed) [**Clean Architecture**](./clean-architecture/), In this series of 13 lessons I run through the contents of the book a few chapters at a time.
 
-  We talk about "SOLID principles" of design and the separation of concerns. From the first lines of code you write to fully-baked systems. I learned a few new things and had a fair number of my existing assumptions confirmed.
+    We talk about "SOLID principles" of design and the separation of concerns. From the first lines of code you write to fully-baked systems. I learned a few new things and had a fair number of my existing assumptions confirmed.
 
-  This was the first book series delivered. Future series will focus on the books alone and will not feature discussions with live-stream visitors.
+    This was the first book series delivered. Future series will focus on the books alone and will not feature discussions with live-stream visitors.
 
 - **(CURRENTLY ACTIVE)** [**Accelerate**](./accelerate/) This book by Dr. Nicole Forgren, Jez Humble and, Gene Kim is based on rigorous scientific research into the state of dev ops. Through surveys of tens of thousands of engineering organizations, the authors attempt to answer questions about what makes engineering organizations successful.
 
