@@ -9,7 +9,7 @@ ISBN: 9781942788331
 
 ## Weekly schedule
 
-1. Introduction  
+1. [Introduction](./week01.md)  
 1. Chapter 01 - Accelerate  
 1. Measuring Performance  
 1. Measuring and Changing Culture  
