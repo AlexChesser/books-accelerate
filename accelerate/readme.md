@@ -10,8 +10,8 @@ ISBN: 9781942788331
 ## Weekly schedule
 
 1. [Introduction](./week01.md)  
-1. Chapter 01 - Accelerate  
-1. Measuring Performance  
+1. [Chapter 01 - Accelerate](./week02.md)  
+1. [Measuring Performance](./week03.md)  
 1. Measuring and Changing Culture  
 1. Technical Practices  
 1. Architecture  
