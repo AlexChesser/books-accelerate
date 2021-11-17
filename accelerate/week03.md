@@ -45,7 +45,15 @@
   - how quickly can service be restored after failure?
   - how frequent is failure? (what percentage fails?)
 
-[TODO - reproduce main charts here ]
+
+| 2017 |High Performers|Medium Performers|Low Performers|
+|---   |---            |---              |---           |  
+|Deployment Frequency|On demand (multiple deploys per day)|Between once per week and once per month|Between once per week and once per month*|   
+|Lead Time for Changes|Less than one hour|Between one week and one month|Between one week and one month*|  
+|MTTR|Less than one hour|Less than one day|Between one day and one week|  
+|Change Failure Rate|0-15%|0-15%|31-45%|   
+   
+^* Low performers were lower on average (at a statistically significant level) but had the same median as the medium performers.
 
 ### findings
 
@@ -69,7 +77,7 @@
   - quality
   - achieving organizationsal "mission" goals
 
-[TODO - software delivery chart]
+![This research has foud a precictive model](https://user-images.githubusercontent.com/355561/142114186-b59c92a5-9ecc-431f-b958-25496b673f8f.png)
 
 ### extrapolation 
 
