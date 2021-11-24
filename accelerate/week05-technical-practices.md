@@ -60,3 +60,38 @@
 
 ![Effects of continuous delivery](https://user-images.githubusercontent.com/355561/143178179-578c86a0-3424-41df-8b6d-2d85f51b9fd1.png)
 
+- continuous delivery systems impact software quality 
+- result in less rework 
+- result in less unplanned work
+- both of the above are useful proxies for quality 
+- consider "unplanned work" as equivalent to paying attention to the low-fuel guage vs. running out of gas on the highway
+
+### CD practices that work
+
+- **version control**: hopefully obvious
+  - keeping system and application configuration in version control is highly correlated with performance
+- **test automation**: reliable automated tests help delivery 
+  - fragile tests should be in quarrantine
+  - code becomes more testable when developers write the tests
+  - when developers are responsible for tests they care more about them
+- **test data management**: having a robust and reliable set of test data to work with is **known** to be hard, but also valuable
+- **trunk based development**: merging code back into main frequently is correlated with performance
+  - long lived branches get stale
+  - compare to the process of [git-flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+-  **information security**: more likely to include security earlier in their process
+  -  integrating security practices early is strongly correlated
+
+## Adopting Continuous Delivery
+
+- CD improves delivery performance & quality
+- improves culture
+- reduces burnout
+- reduces deployment pain
+- implementing CD often requires rethinking everything
+- requires relentless work to
+  - simplify architecture on an ongoing basis
+  - ensure automation isn't prohibitively expensive
+
+- a critical obstacle to implementing CI/CD is application architecture 
+
+dun dun dun ... which we talk about in the next chapter  :D  
