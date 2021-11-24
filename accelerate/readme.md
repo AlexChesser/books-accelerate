@@ -12,8 +12,8 @@ ISBN: 9781942788331
 1. [Introduction](./week01.md)  
 1. [Chapter 01 - Accelerate](./week02.md)  
 1. [Measuring Performance](./week03.md)  
-1. Measuring and Changing Culture  
-1. Technical Practices  
+1. [Measuring and Changing Culture](week04-culture.md)  
+1. [Technical Practices](week05-technical-practices.md)  
 1. Architecture  
 1. Integrating Infosec into the Delivery Lifecycle  
 1. Management Practices for Software  
