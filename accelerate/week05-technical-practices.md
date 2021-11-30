@@ -1,5 +1,7 @@
 # Technical Practices
 
+`[![Week Five Video](https://img.youtube.com/vi/*******/0.jpg)](https://www.youtube.com/watch?v=*******)`
+
 ## it starts with extreme programming (XP)
 
 - XP prescribes
