@@ -1,6 +1,6 @@
 # Technical Practices
 
-[![Week Five Video](https://img.youtube.com/vi/bvfOZJ10ZyQ/0.jpg)](https://www.youtube.com/watch?v=bvfOZJ10ZyQ)
+[![Week Five Video - Dec 09, 2021](https://img.youtube.com/vi/bvfOZJ10ZyQ/0.jpg)](https://www.youtube.com/watch?v=bvfOZJ10ZyQ)
 
 ## it starts with extreme programming (XP)
 
