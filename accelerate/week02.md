@@ -1,5 +1,7 @@
 # Week 02 - Chapter 01 - Accelerate
 
+[![Week Two Video](https://img.youtube.com/vi/U1Plr08cohA/0.jpg)](https://www.youtube.com/watch?v=U1Plr08cohA)
+
 - Unless our IT organizations work within a constant state of inprovement, we will fall behind our competitors
 
 ### broad findings
