@@ -1,5 +1,7 @@
 # Week 01: Accelerate - Building and scaling high performing technology organizations
 
+[![Week One Video](https://img.youtube.com/vi/5rTkuFpdtOY/0.jpg)](https://www.youtube.com/watch?v=5rTkuFpdtOY)
+
 ## foreword
 
 > We can now assert with confidence that high IT performance correlates with strong business performance, helping to boost productivity, profitability, and market share.
