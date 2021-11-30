@@ -1,6 +1,7 @@
 # Measuring and Changing Culture
 
-`[![Week Four Video](https://img.youtube.com/vi/*******/0.jpg)](https://www.youtube.com/watch?v=*******)`
+`[![Week Four Video](https://img.youtube.com/vi/foyneKZ7Y3o/0.jpg)](https://www.youtube.com/watch?v=foyneKZ7Y3o)`
+
 
 - it is possible to change company culture by implementing devops practices
 - organizational culture can exist at three levels
