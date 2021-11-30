@@ -1,5 +1,7 @@
 # Week 03 - Measuring Performance
 
+[![Week Three Video](https://img.youtube.com/vi/NzCF4UHh2Ys/0.jpg)](https://www.youtube.com/watch?v=NzCF4UHh2Ys)
+
 - in order to move forward with measurement we need to come to an understanding of **what "good" means**
 - it is expected that the software we build changes and evolves based on what we learn while building it.
 
